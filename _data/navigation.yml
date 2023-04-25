@@ -1,0 +1,10 @@
+# main links
+main:
+  - title : "Categoty"
+    url : /categories/
+  - title : "Search"
+    url : /search/
+
+counts : 
+  - title : "Category"
+    use : true

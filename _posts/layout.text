@@ -1,0 +1,31 @@
+---
+layout: single
+title: ""
+categories:
+toc: true
+toc_label: "목차"
+toc_sticky: true
+author_profile: false
+sidebar:
+    nav : "counts"
+search : true
+---
+
+이미지 첨부
+
+![이미지 설명](/images/이미지 위치)
+
+공지사항 쓰는법
+
+**${공지내용}**
+{: .notice--info}
+
+임베드 생성법
+
+<iframe width="너비" height="높이" src="임베드할 URL" frameborder="0" allowfullscreen></iframe>
+
+북마크 생성법
+
+[설명](URL)
+
+
