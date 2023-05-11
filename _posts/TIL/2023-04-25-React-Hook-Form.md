@@ -316,5 +316,5 @@ export const useAdminLogin = (reset: () => void) => {
 
 ---훅 통합---
 ```typescript
-
+const
 ```
