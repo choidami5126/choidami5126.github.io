@@ -28,4 +28,6 @@ search : true
 
 [설명](URL)
 
+bundle exec jekyll serve
+
 
